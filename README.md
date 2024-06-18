@@ -1,5 +1,5 @@
 # Exercice_Upload
 
-![capture1](/capture1.jpg)
-![capture2](/capture2.jpg)
-![capture3](/capture3.jpg)
+<img src="./capture1.png" width="300px" height="auto" />
+<img src="./capture2.png" width="300px" height="auto" />
+<img src="./capture3.png" width="300px" height="auto" />
